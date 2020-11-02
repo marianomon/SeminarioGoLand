@@ -7,6 +7,7 @@ type auto struct {
 	modelo string
 }
 
+//no funciona
 type agencia struct {
 	autos := make([]auto, 3)
 }
